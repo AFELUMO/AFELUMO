@@ -1,6 +1,6 @@
 # Hi, I'm Temidayo Tom Afelumo 👋
 
-🎓 MSc Artificial Intelligence (University of Essex)  
+🎓 MSc Artificial Intelligence and its Applications (University of Essex)  
 🧠 Machine Learning • Deep Learning • Federated Learning • Healthcare AI  
 💻 Python | PyTorch | TensorFlow | Scikit-learn | Data Engineering  
 📍 London, United Kingdom  
