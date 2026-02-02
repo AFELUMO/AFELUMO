@@ -1,61 +1,116 @@
-# Afelumo Temidayo Tom
+# Hi, I'm Temidayo Tom Afelumo 👋
 
-📊 Data Scientist | 💻 Python Enthusiast | 📈 Analytics | 🌐 Lagos, Nigeria
+🎓 MSc Artificial Intelligence (University of Essex)  
+🧠 Machine Learning • Deep Learning • Federated Learning • Healthcare AI  
+💻 Python | PyTorch | TensorFlow | Scikit-learn | Data Engineering  
+📍 London, United Kingdom  
 
-## About Me
+---
 
-Hello! I'm Afelumo Temidayo Tom, a passionate and results-driven Data Scientist based in Lagos, Nigeria. With a strong background in finance and extensive experience in client acquisition, sales, and relationship management, I bring a unique perspective to the world of data science.
+## 🚀 About Me
 
-## Work Experience
+I am an AI/Data Scientist with a strong focus on building reliable, real-world machine learning systems that solve meaningful problems in healthcare and biomedical domains.
 
-### McGuire Investment Limited - Head, Client Acquisition and Sales
-- Source for new investors and expand portfolios from new and existing clients.
-- Relationship management of existing and new investors.
-- Develop a strong pipeline of quality investment opportunities.
-- Utilize negotiation skills to overcome impasses and finalize transactions.
+My work sits at the intersection of:
+- Clinical data science
+- Deep learning
+- Federated learning (privacy-preserving AI)
+- Large-scale, messy, real-world datasets
 
-### Zenith Bank PLC - Marketing / Relationship Manager
-- Deposit mobilization and customer acquisition.
-- Credit writing and appraisal.
-- Increased new banking relationships.
-- Developed and maintained relationships with customers.
-- Generated reports on trends and budget attainment.
+I enjoy designing **end-to-end ML pipelines** — from data cleaning and feature engineering to model training, evaluation, and deployment — with an emphasis on reproducibility, robustness, and real clinical impact.
 
-## Education
+Currently, my research explores **heterogeneous federated learning with stacking for multi-label ECG diagnosis**, enabling hospitals to collaboratively train models without sharing sensitive patient data.
 
-- **Masters in International Studies (MIS)** - University of Ilorin, Nigeria (In View)
-- **B.A. Linguistics/English** - University of Maiduguri, Nigeria (2008)
-- **Certificat d’Etudes de Francaise Pratique1** - Alliance Francaise (2006)
+---
 
-## Skills
+## 🔬 Current Research & Projects
 
-- **Programming:** Python
-- **Data Analysis:** Pandas, NumPy
-- **Machine Learning:** Scikit-Learn, TensorFlow
-- **Visualization:** Matplotlib, Seaborn
-- **Database:** SQL
-- **Tools:** Jupyter, Git
-- **Soft Skills:** Excellent communication, Team player, Analytical thinking
+### 🫀 Fed-MStacking: Federated Learning for ECG Diagnosis
+- Multi-hospital federated training (FedAvg, FedAdam, stacking meta-models)
+- CNNs, Transformers, Graph Neural Networks
+- PTB-XL clinical ECG dataset
+- Class-imbalanced multi-label classification
+- Privacy-preserving healthcare AI
 
-## Extras
+**Tech:** PyTorch • NumPy • Scikit-learn • XGBoost • LightGBM • GraphSAGE
 
-- **Languages Spoken:** French, English, Yoruba, and Hausa
+---
 
-## Personal Profile
+### 📈 Applied Machine Learning & Analytics
+- Predictive modelling
+- Statistical analysis
+- Time-series forecasting
+- Model optimisation & evaluation
+- Data visualisation and reporting
 
-- Effective communication and problem-solving skills
-- Integrity, transparency, and honesty
-- Good team player with a strong analytical mind
-- Ability to read and write technical reports
-- Physical and mental alertness
+---
 
-## Interests and Activities
+## 🛠 Technical Skills
 
-- Reading and Traveling
+### Languages
+Python • SQL • MATLAB • Bash
 
-## Let's Connect
+### ML / AI
+PyTorch • TensorFlow • Scikit-learn • XGBoost • LightGBM • Federated Learning • Deep Learning • Graph Neural Networks • Transformers
 
-📧 Email: [tomdee446@gmail.com](mailto:tomdee446@gmail.com)  
-🔗 LinkedIn: [Afelumo Temidayo Tom](https://www.linkedin.com/in/afelumotom/)
+### Data
+Pandas • NumPy • Feature Engineering • Data Cleaning • EDA • Statistical Modelling
 
-Looking forward to exploring the endless possibilities in the world of data science! 🚀
+### Tools
+Git • GitHub • Jupyter • Google Colab • VS Code • Linux • APIs • Excel
+
+### Practices
+Reproducible Research • Experiment Tracking • Model Evaluation • Documentation • Cross-functional Collaboration
+
+---
+
+## 📚 Education
+
+**MSc Artificial Intelligence and its Applications**  
+University of Essex, UK (2026)
+
+**Masters in International Studies (MIS)**
+University of Ilorin, Nigeria (2024)
+
+**B.A. History & International Relations** 
+AL-Hikmah University Ilorin, Nigeria (2020)
+
+**B.A. Linguistics/English** 
+University of Maiduguri, Nigeria (2008)
+
+**Certificat d’Etudes de Francaise Pratique1** 
+Alliance Francaise Maiduguri, Nigeria (2006)
+
+---
+
+## 💡 What I Care About
+
+- AI for healthcare and social good  
+- Privacy-preserving machine learning  
+- Translating research into real-world tools  
+- Clean, maintainable, production-ready code  
+- Continuous learning and experimentation  
+
+---
+
+## 📌 Selected Strengths
+
+✔ Strong Python engineering  
+✔ Experience with messy real-world clinical datasets  
+✔ Research mindset + implementation skills  
+✔ Clear technical communication  
+✔ Comfortable collaborating with clinicians, engineers, and researchers  
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: tomdee446@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/afelumotom  
+💻 GitHub: https://github.com/AFELUMO
+
+---
+
+⭐ *Always open to opportunities in Machine Learning, Healthcare AI, Research, and Data Science.*
+
+
